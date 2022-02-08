@@ -6,6 +6,5 @@ I am a DevOps Engineer that is currently creating an original Jenkins Pipeline f
 - 📫 christopher.fickess20@gmail.com
 
 <!---
-christopherfickess/christopherfickess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+This README.md is a Work In Progress
 --->
