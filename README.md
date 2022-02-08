@@ -1,14 +1,9 @@
-# <font color="red">Overview 
+# Overview 
 
-DevOps Engineer that is currently creating an original Jenkins Pipeline for my organization from scratch. The role has enables many skills to be applified 
+I am a DevOps Engineer that is currently creating an original Jenkins Pipeline for my organization from the ground up. In the current position I have implemented multiple Virtual Machine modification and enhancement for the users. I am currently learning how to implement a Kubernetes Cluster to further increase the efficiency of the Jenkins Pipeline.
+  
 
-<p style='color:red'>test</p>
-
-- 👋 Hi, I’m @christopherfickess
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 christopher.fickess20@gmail.com
 
 <!---
 christopherfickess/christopherfickess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
