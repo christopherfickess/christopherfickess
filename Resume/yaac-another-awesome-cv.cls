@@ -160,10 +160,10 @@
 
 %New length definition
 \newlength{\rightcolumnlength}
-\setlength{\rightcolumnlength}{16.1cm}
+\setlength{\rightcolumnlength}{16.7cm}
 
 \newlength{\leftcolumn}
-\setlength{\leftcolumn}{2.5cm}
+\setlength{\leftcolumn}{2.cm}
 
 % Font Awesome icons aliases
 \newcommand{\mailSymbol}{\faAt}
@@ -375,8 +375,9 @@
 %                    }
 %                    {<Technology list>}
 \newcommand\experience[7]{
+
   \textbf{#1}    & \textbf{#2, \textsc{#3}   |   #4}   								\\*
-  \textbf{#5}    & \begin{minipage}[t]{\rightcolumnlength}
+  \textbf{#5}    & \begin{minipage}[t]
   					         #6
                    \end{minipage}										\\*
                  & \footnotesize{\foreach \n in {#7}{\cvtag{\n}}} 	\\*
@@ -392,7 +393,7 @@
 %                    }
 %                    {<Technology list>}
 \newcommand\consultantexperience[9]{
-  \textbf{#1}    & \textbf{#2, \textsc{#3}, #4}   								\\*
+   \textbf{#1}    & \textbf{#2, \textsc{#3}, #4}   								\\*
   \textbf{#5}    & \emph{#6}  \textsc{#7}                       				\\*
   				       & 	\begin{minipage}[t]{\rightcolumnlength}
   						        #8
